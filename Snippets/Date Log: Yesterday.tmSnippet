@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>`date +%Y.%m.%d`	`date +%a`
+	<string>`date -v -1d +%Y.%m.%d`	`date -v -1d +%a`
 	</string>
 	<key>name</key>
-	<string>Date Log</string>
+	<string>Date Log: Yesterday</string>
 	<key>tabTrigger</key>
-	<string>ddd</string>
+	<string>ddy</string>
 	<key>uuid</key>
-	<string>E9F7F669-F8EB-4518-8BC7-32AA9A9D0211</string>
+	<string>87D110AE-6FF5-4537-840F-18A7585CFF04</string>
 </dict>
 </plist>
